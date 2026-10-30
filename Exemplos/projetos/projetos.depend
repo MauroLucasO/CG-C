@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1792592438 source:/home/mint/Desktop/Exemplos/Ex00.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glut.h>
+
+1793324972 source:/home/mint/Desktop/Exemplos/Meu.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glut.h>
+
