@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1792592438 source:/home/mint/Desktop/Exemplos/Ex00.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glut.h>
+
+1793324972 source:/home/mint/Desktop/Exemplos/Meu.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glut.h>
+
+1793330112 source:c:\users\mauro\onedrive\햞ea de trabalho\exemplos\exemplos\meu.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<GL/glut.h>
+
+1793330911 source:c:\users\mauro\onedrive\햞ea de trabalho\exemplos\exemplos\ex01a.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<GL/glut.h>
+
+1793326258 source:c:\users\mauro\onedrive\햞ea de trabalho\exemplos\exemplos\ex03.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glut.h>
+
+1793330879 source:c:\users\mauro\onedrive\햞ea de trabalho\exemplos\exemplos\ex00.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<GL/glut.h>
+
